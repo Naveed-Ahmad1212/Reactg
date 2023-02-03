@@ -1,5 +1,4 @@
 import React from 'react'
-
 function Alerts(props) {
   return (
     <div style={{height: '50px'}}>
